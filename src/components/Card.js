@@ -32,6 +32,7 @@ const Title = styled.h4`
 	width: 85%;
 	margin: 0 auto;
 	padding: 0.5rem 0;
+	padding-bottom: 0.75rem;
 `;
 
 const InfoWrapper = styled.div`
