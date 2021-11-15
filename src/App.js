@@ -12,6 +12,7 @@ import image5 from "./asset/image/5.jpg";
 import styled from "styled-components";
 
 const Text = styled.p`
+	width: 85%;
 	max-width: 750px;
 	text-align: center;
 	margin: 0 auto;
