@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/platzaar-subject/static/css/main.d0046e0b.chunk.css",
-    "main.js": "/platzaar-subject/static/js/main.c06bf04c.chunk.js",
-    "main.js.map": "/platzaar-subject/static/js/main.c06bf04c.chunk.js.map",
+    "main.js": "/platzaar-subject/static/js/main.8af6bea3.chunk.js",
+    "main.js.map": "/platzaar-subject/static/js/main.8af6bea3.chunk.js.map",
     "runtime-main.js": "/platzaar-subject/static/js/runtime-main.d5a263fe.js",
     "runtime-main.js.map": "/platzaar-subject/static/js/runtime-main.d5a263fe.js.map",
     "static/js/2.e4ff8e36.chunk.js": "/platzaar-subject/static/js/2.e4ff8e36.chunk.js",
@@ -24,6 +24,6 @@
     "static/js/runtime-main.d5a263fe.js",
     "static/js/2.e4ff8e36.chunk.js",
     "static/css/main.d0046e0b.chunk.css",
-    "static/js/main.c06bf04c.chunk.js"
+    "static/js/main.8af6bea3.chunk.js"
   ]
 }
