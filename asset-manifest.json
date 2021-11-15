@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/platzaar-subject/static/css/main.d0046e0b.chunk.css",
+    "main.js": "/platzaar-subject/static/js/main.c06bf04c.chunk.js",
+    "main.js.map": "/platzaar-subject/static/js/main.c06bf04c.chunk.js.map",
+    "runtime-main.js": "/platzaar-subject/static/js/runtime-main.d5a263fe.js",
+    "runtime-main.js.map": "/platzaar-subject/static/js/runtime-main.d5a263fe.js.map",
+    "static/js/2.e4ff8e36.chunk.js": "/platzaar-subject/static/js/2.e4ff8e36.chunk.js",
+    "static/js/2.e4ff8e36.chunk.js.map": "/platzaar-subject/static/js/2.e4ff8e36.chunk.js.map",
+    "static/js/3.896e8203.chunk.js": "/platzaar-subject/static/js/3.896e8203.chunk.js",
+    "static/js/3.896e8203.chunk.js.map": "/platzaar-subject/static/js/3.896e8203.chunk.js.map",
+    "index.html": "/platzaar-subject/index.html",
+    "static/css/main.d0046e0b.chunk.css.map": "/platzaar-subject/static/css/main.d0046e0b.chunk.css.map",
+    "static/js/2.e4ff8e36.chunk.js.LICENSE.txt": "/platzaar-subject/static/js/2.e4ff8e36.chunk.js.LICENSE.txt",
+    "static/media/1.9c8f2fc3.jpg": "/platzaar-subject/static/media/1.9c8f2fc3.jpg",
+    "static/media/2.918926ac.jpg": "/platzaar-subject/static/media/2.918926ac.jpg",
+    "static/media/3.c8f06280.jpg": "/platzaar-subject/static/media/3.c8f06280.jpg",
+    "static/media/4.34a7d80f.jpg": "/platzaar-subject/static/media/4.34a7d80f.jpg",
+    "static/media/5.8b605bce.jpg": "/platzaar-subject/static/media/5.8b605bce.jpg",
+    "static/media/fontiran.css": "/platzaar-subject/static/media/IRANSansWeb_UltraLight.aea41276.eot",
+    "static/media/logo.6ce24c58.svg": "/platzaar-subject/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d5a263fe.js",
+    "static/js/2.e4ff8e36.chunk.js",
+    "static/css/main.d0046e0b.chunk.css",
+    "static/js/main.c06bf04c.chunk.js"
+  ]
+}
